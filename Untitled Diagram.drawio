@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-10-08T01:35:08.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="aaPs1dpTvN_heW4TDT-h" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-08T01:35:18.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="VT1QGjGpSBGfYbsU53NZ" version="20.4.0" type="github">
   <diagram id="HtFlZ9RdZAynyep0bvoO" name="basic class">
     <mxGraphModel dx="1421" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0Xv3OygZfmZB1rYNSxOK-1" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="0Xv3OygZfmZB1rYNSxOK-1" value="module" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="-730" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="0Xv3OygZfmZB1rYNSxOK-2" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0Xv3OygZfmZB1rYNSxOK-1" vertex="1">
